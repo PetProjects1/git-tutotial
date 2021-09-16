@@ -1,4 +1,8 @@
 Another file!
 Who can see what's happenig next...?
 i have to add more to this file.
+<<<<<<< HEAD
 Ben conflict line!
+=======
+Anna conflict line
+>>>>>>> 4a839ca8590c3a2352e71b8428bc94bf9e3258ad
