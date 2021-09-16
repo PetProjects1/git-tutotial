@@ -2,9 +2,6 @@ Another file!
 Who can see what's happenig next...?
 i have to add more to this file.
 
-<<<<<<< HEAD
 Ben
-=======
-Anna
->>>>>>> d5937682b125102cdae97e8e8cb5b08f64091487
+
 
