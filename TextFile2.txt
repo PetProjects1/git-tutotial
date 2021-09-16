@@ -1,8 +1,6 @@
 Another file!
 Who can see what's happenig next...?
 i have to add more to this file.
-<<<<<<< .merge_file_a10040
-Ben
-=======
+
 Anna
->>>>>>> .merge_file_a12716
+
